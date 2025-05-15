@@ -1,0 +1,2 @@
+# Missing-Child-Idenitification-System-using-Deep-Learning-and-Multi-Class-SVM
+A powerful and efficient system designed to assist in identifying and locating missing children using facial recognition, real-time alerts, and centralized data management. This project leverages modern technologies to support law enforcement agencies, NGOs, and concerned citizens in the mission to reunite missing children with their families.
